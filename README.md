@@ -84,9 +84,9 @@ HTTP Method	    Endpoint	        Description
 
 GET	            /book/	            Retrieve all books
 GET	            /book/{bookId}	    Retrieve a single book by ID
-POST            /book/	            Create a new book
+POST                /book/	            Create a new book
 PUT	            /book/{bookId}	    Update an existing book
-DELETE	        /book/{bookId}	    Delete a book by ID
+DELETE	            /book/{bookId}	    Delete a book by ID
 ```
 ## File and Package Breakdown
 ### Main Application
